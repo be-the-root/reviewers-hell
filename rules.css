@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    border: 0;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+
+}
+.head{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 30px;
+    margin: 30px;
+    font-size: x-large;
+    margin-bottom: 20px;
+
+
+  
+}
+.line{
+    color: white;
+    width: 80%;
+
+}
+.para{
+    color: white;
+    margin: 20px;
+    text-decoration: double;
+    font-family: monospace;
+    font-size: x-large;
+
+
+}
+.btn{
+    color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    border: 3px solid rgb(255, 0, 0);
+    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 3px;
+    margin: 50px;
+    
+
+}
