@@ -52,3 +52,13 @@ body{
     padding-top: 10px;
     
 }
+
+.btn1:hover{
+    background-color: darkred;
+}
+.btn2:hover{
+    background-color: darkred;
+}
+.btn3:hover{
+    background-color: darkred;
+}

@@ -52,3 +52,16 @@ body{
     padding-top: 10px;
     
 }
+.btn1:hover{
+    background-color: darkred;
+    cursor: pointer;
+}
+.btn2:hover{
+    background-color: darkred;
+    cursor: pointer;
+
+}
+.btn3:hover{
+    background-color: darkred;
+    cursor: pointer;
+}
